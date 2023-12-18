@@ -42,4 +42,3 @@
 
 ### Copyright<a name=copy></a>
 - Copyright (C) 2015 - 2016 Bosch Sensortec GmbH
-
